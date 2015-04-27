@@ -100,7 +100,7 @@ ME: The thing is, schools hold kids captive all day. It's unfair for them to als
 
 Instead of just plowing on, I should have responded to SOMEONE's objection. Before continuing, I should have either conceded his point or explained why it was wrong. 
 
-This boils done to not entering a discussion with the goal of winning no matter what. *I must, _at all times_, be open to being wrong in part or whole.* I should not simply keep vollying with arguments until one of them hits the target, ignoring all that fail.
+This boils done to not entering a discussion with the goal of winning no matter what. *I must, **at all times**, be open to being wrong in part or whole.* I should not simply keep vollying with arguments until one of them hits the target, ignoring all that fail.
 
 ##5. I must either stay in a discussion or bow out gracefully. 
 
