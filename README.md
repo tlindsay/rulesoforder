@@ -155,7 +155,7 @@ I'm allowed to say, "I'm really frustrated right now." I'm not allowed to engage
 
 ##11. I will never nitpick at someone's minor points. 
 
-If someone says, "You think the Internet is perfect? That's what people said in the 1920s about the Titanic," it derails the discussion for me to respond, "The Titanic sank in 1912!" His point was about hubris, and the minor error didn't affect his argument. My goal is to understand his key claims—and maybe to agree or disagree with them – not to win gotcha points. 
+If someone says, "You think the Internet is perfect? That's what people said in the 1920s about the Titanic," it derails the discussion for me to respond, "The Titanic sank in 1912!" His point was about hubris, and the minor error didn't affect his argument. My goal is to understand his key claims—and maybe to agree or disagree with them–not to win gotcha points. 
 
 (Later, when it won't derail the conversation, it's okay for me to say, "Oh. Just a note. The Titanic sank in 1912." Conversational ninjas can even say this immediately, as long as they phrase it like similarly to this, "Well, the Titanic sank in 1912, but I take your point that..." I'm just a mortal, so I should probably stick to "later.")
 
@@ -165,7 +165,7 @@ It's hard to argue fairly. Even if I start with the honest goal of seeking truth
 
 If apologizing is deeply painful or irritating—so much so that I can't bring myself to do it—then I must at least admit that I've quit seeking the truth: that I've changed the game and am now playing by new rules. My points are now about my ego. That's not a horrible sin. It means I'm human. 
 
-Sometimes humans have to withdraw and lick their wounds. It's honorable to take a break – even a permanent one – if I must.
+Sometimes humans have to withdraw and lick their wounds. It's honorable to take a break–even a permanent one–if I must.
 
 If I choose to continue, I must say "You know, I just realized I insulted you ..." (or whatever I did.) " ... I'm sorry. That was wrong of me." I must pause after doing that, making sure to never combine an apology with a change of subject, or it will sound like I'm fleeing from the apology. I should never say, "I'm sorry I attacked you, but my point is..." Instead, I should take a deep breath, find some humility, look the other person in the eye, and say, "I was wrong." Full Stop. Then let him speak. After he's had a turn to respond, I am free to continue making my argument.
 
