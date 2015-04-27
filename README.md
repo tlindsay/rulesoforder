@@ -38,11 +38,11 @@ When insulted, I have two honorable options: (1) ignore the insult and just resp
 
 After I leave, the insulter will almost always claim victory. I need to live with that. To him, the whole point of debate is for one person to win and the other to lose. I must remember that my goals are to seek truth, to explain my position, and to learn. We're not playing the same game. It's okay for him win his game; it's not my game. 
 
-Optional: I can issue a warning without leaving. It's fine to leave after the first insult, but sometimes I find it worth haning in there a little longer, making it clear that I'll leave if the insults continue. People are imperfect; they get defensive despite their best intentions to keep calm. (It happens to me!) Sometimes an insult will slip out. If I feel I am up to it, I can give the insulter a chance to apologize, and I can accept his apologies with grace. If, after that, he insult me a second time, I should opt out.
+Optional: I can issue a warning without leaving. It's fine to leave after the first insult, but sometimes I find it worth hanging in there a little longer, making it clear that I'll leave if the insults continue. People are imperfect; they get defensive despite their best intentions to keep calm. (It happens to me!) Sometimes an insult will slip out. If I feel I am up to it, I can give the insulter a chance to apologize, and I can accept his apologies with grace. If, after that, he insult me a second time, I should opt out.
 
 I've found that some people simply lock into a framework in which their default is to insult, especially on the web, where they've so often been insulted. Sometimes a gentle reminder shifts them out of that mode.
 
-##3. I must never dismiss a claim with "You can take anything to extremes..." and I must never refused to discuss hypothetical situations. 
+##3. I must never dismiss a claim with "You can take anything to extremes..." and I must never refuse to discuss hypothetical situations. 
 
 When someone says, "If we take your logic to extremes, we wind up with Nazi Germany," there are three meaningful responses:
 
@@ -52,7 +52,7 @@ ii. "You're right. You've made me realize that I need to qualify my argument. I 
 
 iii. "You're right. I didn't fully considered the ramifications of my argument."
 
-I will try my hardest to play along with proposed hypotheticals, rathern than simply dismissing them because they're not real. If they seem flawed, I will try to help correct them. 
+I will try my hardest to play along with proposed hypotheticals, rather than simply dismissing them because they're not real. If they seem flawed, I will try to help correct them. 
 
 Example of what *not* to do:
 
@@ -98,9 +98,9 @@ SOMEONE: That's not true. I learned Algebra almost entirely from homework. I nev
 
 ME: The thing is, schools hold kids captive all day. It's unfair for them to also make demands on the nighttime. 
 
-Instead of just plowing on, I should have responded to SOMEONE's objection. Before continuing, I should have either conceided his point or explained why it was wrong. 
+Instead of just plowing on, I should have responded to SOMEONE's objection. Before continuing, I should have either conceded his point or explained why it was wrong. 
 
-This boils done to not entering a discussion with the goal of winning no matter what. I must, at all times, be open to being wrong in part or whole. I should not simply keep vollying with arguments until one of them hits the target, ignoring all that fail.
+This boils done to not entering a discussion with the goal of winning no matter what. *I must, _at all times_, be open to being wrong in part or whole.* I should not simply keep vollying with arguments until one of them hits the target, ignoring all that fail.
 
 ##5. I must either stay in a discussion or bow out gracefully. 
 
@@ -116,9 +116,9 @@ I may not say say, "You clearly think you're always right" unless the person I'm
 
 I will never begins a sentence with "People like you always say..." It's fine, acceptable, and good to ask *questions* about mindset. "You say you're a Republican? The republicans I know want lower taxes. Do you want lower taxes?"
 
-I will never use an indvidual person as a proxy for some group. I may not assume a self-proclaimed republican is anti gay marriage unless he has said he's anti gay marraige. (Of course, I can ask him if he is!) There's no such thing for me as "You people" or "people like you."
+I will never use an indvidual person as a proxy for some group. I may not assume a self-proclaimed republican is anti-gay-marriage unless he has said he's anti-gay-marraige. (Of course, I can ask him if he is!) There's no such thing for me as "You people" or "people like you."
 
-Each time I'm tempted to say, "You think...," "You've claimed...," or "You clearly believe...," I will pause, take a deep breath, and ask myself, "Did he actually make that claim or implication? When?" When in doubt, I'm best of asking a question: "Do you believe...?"
+Each time I'm tempted to say, "You think...," "You've claimed...," or "You clearly believe...," I will pause, take a deep breath, and ask myself, "Did he actually make that claim or implication? When?" When in doubt, I'm best off asking a question: "Do you believe...?"
 
 
 ##7. I must never use sarcasm as a weapon. 
@@ -129,7 +129,7 @@ If my (passive-aggressive) point is "you're really stupid," then I'm engaging in
 
 ##8. I must never resort to bad behavior when all else has failed. 
 
-"You know what? I tried reasoning with you. I explained myself to you really clearly. In fact, I explain myself *four* TIMES. You refuse to listen. You know what? At this point ... fuck you!" 
+"You know what? I tried reasoning with you. I explained myself to you really clearly. In fact, I explained myself *four* TIMES. You refuse to listen. You know what? At this point ... fuck you!" 
 
 I must either stay in the discussion and keep explaining myself clearly or opt out gracefully. (See Rule 5.)
 
@@ -155,7 +155,7 @@ I'm allowed to say, "I'm really frustrated right now." I'm not allowed to engage
 
 ##11. I will never nitpick at someone's minor points. 
 
-If someone says, "You think the Internet is perfect? That's what people said in the 1920s about the Titanic," it derails the discussion for me to respond, "The Titanic sank in 1912!" His point was about hubris, and the minor didn't affect his argument. My goal is to understand his key claims—and maybe to agree or disagree with them—not to win gotcha points. 
+If someone says, "You think the Internet is perfect? That's what people said in the 1920s about the Titanic," it derails the discussion for me to respond, "The Titanic sank in 1912!" His point was about hubris, and the minor error didn't affect his argument. My goal is to understand his key claims—and maybe to agree or disagree with them – not to win gotcha points. 
 
 (Later, when it won't derail the conversation, it's okay for me to say, "Oh. Just a note. The Titanic sank in 1912." Conversational ninjas can even say this immediately, as long as they phrase it like similarly to this, "Well, the Titanic sank in 1912, but I take your point that..." I'm just a mortal, so I should probably stick to "later.")
 
@@ -165,7 +165,7 @@ It's hard to argue fairly. Even if I start with the honest goal of seeking truth
 
 If apologizing is deeply painful or irritating—so much so that I can't bring myself to do it—then I must at least admit that I've quit seeking the truth: that I've changed the game and am now playing by new rules. My points are now about my ego. That's not a horrible sin. It means I'm human. 
 
-Sometimes humans have to withdraw and lick their wounds. It's honorable to take a break—even a permanent one—if I must.
+Sometimes humans have to withdraw and lick their wounds. It's honorable to take a break – even a permanent one – if I must.
 
 If I choose to continue, I must say "You know, I just realized I insulted you ..." (or whatever I did.) " ... I'm sorry. That was wrong of me." I must pause after doing that, making sure to never combine an apology with a change of subject, or it will sound like I'm fleeing from the apology. I should never say, "I'm sorry I attacked you, but my point is..." Instead, I should take a deep breath, find some humility, look the other person in the eye, and say, "I was wrong." Full Stop. Then let him speak. After he's had a turn to respond, I am free to continue making my argument.
 
